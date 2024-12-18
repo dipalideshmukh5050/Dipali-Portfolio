@@ -909,7 +909,7 @@ section,
   display: flex;
   justify-content: center;
   align-items: center;
-  gap: 40px; /* Adjust the gap between the stats items */
+  gap: 60px; /* Adjust the gap between the stats items */
   flex-wrap: nowrap; /* Ensures all items stay in one row */
 }
 
